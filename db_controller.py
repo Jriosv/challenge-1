@@ -72,8 +72,10 @@ class DBController:
         items = self.get_by_country(table, country_name, lang)
         if len(items) == 0:
             dataframe.to_sql(table,con=con,index=False, if_exists='append')
+            return True
         else:
             print('This data already exists in the database!\n')
+            return False
         
         
     
