@@ -43,6 +43,8 @@ This is a python program that build a data table with ecnrypted language of a co
 
 
 ## Testing
+I only include some tests due to I did not have a lot of time.
+
 all the following commands should have the virtualenv activated
 
 1. To test the application we use pytest, just run the following command:
