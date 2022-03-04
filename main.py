@@ -1,4 +1,4 @@
-from db_connection import DBController
+from db_controller import DBController
 from controller import Controller
 import requests
 import pandas as pd
