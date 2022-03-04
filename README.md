@@ -37,9 +37,9 @@ This is a python program that build a data table with ecnrypted language of a co
    pip install -r requirements.txt
 
 ### Execution
-* >python main.py
-* >Please enter country name or enter 'exit' to finish the program:
-* >Nota: cuando le das exit se crea el data.json
+* \>python main.py
+* \>Please enter country name or enter 'exit' to finish the program:
+* \>Nota: cuando le das exit se crea el data.json
 
 
 ## Testing
