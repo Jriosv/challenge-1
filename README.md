@@ -2,8 +2,8 @@
 This is a python program that build a data table with ecnrypted language of a country taken from an API
 
 ### Solution Desing
-![alt text](https://drive.google.com/file/d/1-qmR1al-wHF5_-gZlVbq8_OqelZHwjpk/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1aJD580SqfhfmtLzN8qkH16WMQVBYjPaI/view?usp=sharing)
+![alt text](images/diagrama1.png)
+![alt text](images/diagrama2.png)
 
 
 ### Built With
