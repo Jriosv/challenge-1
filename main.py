@@ -9,7 +9,7 @@ COLUMNS = ['Region','City_Name','Language','Time(ms)']
 data_frame = pd.DataFrame(columns=COLUMNS)
 
 #database connection
-database = DBController('test.db')
+database = DBController('challenge.db')
 database.connect_db()
 database.create_table(data_frame,'Languages')
 

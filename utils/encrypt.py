@@ -11,3 +11,4 @@ def encrypt_language(lang: str):
     """
     hashed_language = hashlib.sha1(lang.encode('UTF-8'))
     return hashed_language.hexdigest()
+

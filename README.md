@@ -36,6 +36,11 @@ This is a python program that build a data table with ecnrypted language of a co
    ```sh
    pip install -r requirements.txt
 
+### Execution
+* >python main.py
+* >Please enter country name or enter 'exit' to finish the program:
+* >Nota: cuando le das exit se crea el data.json
+
 
 ## Testing
 all the following commands should have the virtualenv activated
@@ -44,8 +49,7 @@ all the following commands should have the virtualenv activated
    ```sh
    pytest -v
    ```
-2. To measure the coverage run the following command:
-   ```sh
-   pytest --cov=.
+
+
 
 
